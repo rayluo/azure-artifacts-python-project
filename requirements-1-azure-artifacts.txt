@@ -1,0 +1,2 @@
+--index-url https://identitydivision.pkgs.visualstudio.com/_packaging/IDDP/pypi/simple/
+mise

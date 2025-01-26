@@ -1,0 +1,5 @@
+# Prerequisite of prerequisite:
+# Needs .Net 6+ runtime https://learn.microsoft.com/en-us/dotnet/core/install/
+keyring
+
+artifacts-keyring
